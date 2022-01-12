@@ -1,12 +1,12 @@
 # HOW IS THIS LIBRARY USED?
 
-     Gradle 
+      maven {url 'https://jitpack.io'}
 
-Write in the settings gradle:    maven {url 'https://jitpack.io'}
+Write in the settings gradle: maven {url 'https://jitpack.io'}
         
 Type in buildGradle:     implementation 'com.github.Ziyodxon: Progress: 1.0.3'
 
-        Main Activity 
+     implementation 'com.github.Ziyodxon: Progress: 1.0.3'
         
 This code is written to the main activity
 
